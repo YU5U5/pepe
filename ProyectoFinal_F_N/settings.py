@@ -150,11 +150,11 @@ WSGI_APPLICATION = 'ProyectoFinal_F_N.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'fish_nexus',
-        'USER': 'root',
-        'PASSWORD': 'kaneki2712',
-        'HOST': '127.0.0.1',
-        'PORT': '3306',
+        'NAME': 'defaultdb',
+        'USER': 'avnadmin',
+        'PASSWORD': 'AVNS_HWIjUZsf6b-yPGrOQXu',
+        'HOST': 'dbproyectofinal-samuelosoriogaspar-8cec.j.aivencloud.com',
+        'PORT': '16159',
     }
 }
 
